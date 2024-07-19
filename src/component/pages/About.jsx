@@ -2,6 +2,6 @@
 
 export default function About() {
   return (
-    <div>Welcome from the About</div>
+    <div>Welcome from the in About</div>
   )
 }
